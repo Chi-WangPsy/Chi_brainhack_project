@@ -1,0 +1,7 @@
+mne
+matplotlib
+scipy
+numpy
+eelbrain
+jupyter
+

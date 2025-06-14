@@ -1,0 +1,17 @@
+# Ignore data
+SMN4Lang/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+
+# Environment folders (optional)
+.env/
+.venv/
+env/
